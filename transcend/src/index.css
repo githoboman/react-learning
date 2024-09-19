@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url("../src/assets/photon.avif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  font-family: 'Roboto', sans-serif;
+  scroll-behavior: smooth;
+}
+.hamburger-flex-div{
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+}
+h5{color: antiquewhite;}
+h1{
+  color: antiquewhite;
+  font-family: 'Roboto', sans-serif;
+  font-size: 55px;
+  padding: 20px;
+}
+h3{
+  color: rgb(161, 150, 136);
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+  
+}
+
+.hamburgercolor:hover{
+  background-color: rgb(82, 221, 163);}
+  .hamburgercolor{
+    border-style: solid;
+    border-width: 1px;
+    border-color: whitesmoke;
+    border-radius: 10%;
+    height: 25px;
+}
+
+
+
+
+.opening-text-div{
+  display: grid;
+  place-items: center;
+}
+.hyper-social-div{
+  color: #f5f3f3;
+  padding: 20px;
+}
+
+
+
