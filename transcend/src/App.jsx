@@ -19,7 +19,7 @@ function App() {
       <h1>
       Hello folks, we are Transcend Studio.
       </h1>
-     <h3 className='linz'>We create stunning digital experiences that will help your business stand out.</h3>
+     <h3 className='linz'> We create stunning digital experiences that will help your business stand out.</h3>
      
 <section className='hyper-social-div'>
 

@@ -17,16 +17,15 @@ body{
   gap: 30px;
   padding: 20px;
 }
-h5{color: antiquewhite;}
+h5
+{color: antiquewhite;}
 h1{
   color: antiquewhite;
-  font-family: 'Roboto', sans-serif;
   font-size: 55px;
   padding: 20px;
 }
 h3{
   color: rgb(161, 150, 136);
-  font-family: 'Roboto', sans-serif;
   padding: 20px;
   
 }
@@ -40,10 +39,6 @@ h3{
     border-radius: 10%;
     height: 25px;
 }
-
-
-
-
 .opening-text-div{
   display: grid;
   place-items: center;
