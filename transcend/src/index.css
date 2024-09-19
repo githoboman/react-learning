@@ -10,12 +10,21 @@ body{
   font-family: 'Roboto', sans-serif;
   scroll-behavior: smooth;
 }
+.heading-color{
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.heading-color img{
+  width: 200px
+}
 .hamburger-flex-div{
   display: flex;
   flex-direction: row-reverse;
   align-items: center;
   gap: 30px;
-  padding: 20px;
+  
 }
 h5
 {color: antiquewhite;}
