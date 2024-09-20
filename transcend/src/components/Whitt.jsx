@@ -1,6 +1,6 @@
 function Whitt() {
   return (
-    <div>
+    <div className="whitt-color">
       <section className="sec1">
         <h2>/ Who We Are</h2>
         <p>We are a group of design driven individuals passionate about creating beautiful UI designs.
